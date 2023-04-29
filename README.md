@@ -1,21 +1,17 @@
-<div align="center">
-  <h1>Hola, soy José Galván 👋</h1>
-  <h3>Soy un apasionado de la tecnología y el aprendizaje continuo 🚀</h3>
-  <p>Me interesa mucho la seguridad informática y actualmente me encuentro aprendiendo sobre este tema. Además, disfruto colaborando en proyectos y resolviendo problemas.</p>
-  <p>Si necesitas contactarme, puedes hacerlo a través de mi perfil de <a href="https://github.com/Jose2425F" target="_blank">GitHub</a>, o bien puedes encontrarme en:</p>
-  <p align="center">
-    <a href="https://discord.gg/aX6PUjRjDN" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="discord" width="40" height="40"/></a>
-    <a href="https://www.instagram.com/jose_f._03/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="instagram" width="40" height="40"/></a>
-  </p>
-  <p>¡Estaré encantado de charlar contigo!</p>
-  <h3>Algunas de las herramientas y tecnologías que utilizo:</h3>
-  <p align="center">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-    <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" alt="visualstudio" width="40" height="40"/></a>
-    <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-    <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="c" width="40" height="40"/></a>
-    <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="c" width="40" height="40"/></a>
-    <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/kali/images/f66fec5d-3e29-4d98-8eb5-496f9467792e.svg" alt="kali" width="40" height="40"/></a>
-  </p>
-</div>
+<h1 align="center">Hi 👋, I'm cristian parra</h1>
+<h3 align="center"> I'm particularly interested in the fields of artificial intelligence and cybersecurity,
+         (i am currently studying). I'm from Colombia.</h3>
+
+- 🌱 I’m currently learning **artificial intelligence.**
+
+- 📫 How to reach me **natacrist81@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/cr_parra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cr_parra" height="30" width="40" /></a>
+<a href="https://discord.gg/721786341997674607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="721786341997674607" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent
+ .com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
