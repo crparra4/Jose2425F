@@ -14,6 +14,8 @@
     <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" alt="visualstudio" width="40" height="40"/></a>
     <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+    <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="c" width="40" height="40"/></a>
+    <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="c" width="40" height="40"/></a>
     <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/kali/images/f66fec5d-3e29-4d98-8eb5-496f9467792e.svg" alt="kali" width="40" height="40"/></a>
   </p>
 </div>
